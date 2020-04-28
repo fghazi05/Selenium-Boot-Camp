@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="57224" started-at="2019-02-11T06:11:05Z" finished-at="2019-02-11T06:12:03Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="57224" started-at="2019-02-11T06:11:05Z" finished-at="2019-02-11T06:12:03Z">
+      <class name="com.demoaut.newtours.Testscripts.UserValidationTest">
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:com.demoaut.newtours.Testscripts.UserValidationTest@7c16905e]" name="openBrowser" is-config="true" duration-ms="7550" started-at="2019-02-11T06:11:33Z" finished-at="2019-02-11T06:11:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="validateUser()[pri:0, instance:com.demoaut.newtours.Testscripts.UserValidationTest@7c16905e]" name="validateUser" duration-ms="6161" started-at="2019-02-11T06:11:41Z" finished-at="2019-02-11T06:11:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateUser -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.demoaut.newtours.Testscripts.UserValidationTest@7c16905e]" name="closeBrowser" is-config="true" duration-ms="2559" started-at="2019-02-11T06:11:47Z" finished-at="2019-02-11T06:11:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.demoaut.newtours.Testscripts.UserValidationTest -->
+      <class name="com.demoaut.newtours.Testscripts.TicketBookingTest">
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:com.demoaut.newtours.Testscripts.TicketBookingTest@1753acfe]" name="openBrowser" is-config="true" duration-ms="12576" started-at="2019-02-11T06:11:05Z" finished-at="2019-02-11T06:11:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="bookATicket()[pri:0, instance:com.demoaut.newtours.Testscripts.TicketBookingTest@1753acfe]" name="bookATicket" duration-ms="12625" started-at="2019-02-11T06:11:18Z" finished-at="2019-02-11T06:11:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bookATicket -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.demoaut.newtours.Testscripts.TicketBookingTest@1753acfe]" name="closeBrowser" is-config="true" duration-ms="2436" started-at="2019-02-11T06:11:31Z" finished-at="2019-02-11T06:11:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.demoaut.newtours.Testscripts.TicketBookingTest -->
+      <class name="com.demoaut.newtours.Testscripts.InvalidCredentialTest">
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:com.demoaut.newtours.Testscripts.InvalidCredentialTest@2a2d45ba]" name="openBrowser" is-config="true" duration-ms="8086" started-at="2019-02-11T06:11:49Z" finished-at="2019-02-11T06:11:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="validateUser()[pri:0, instance:com.demoaut.newtours.Testscripts.InvalidCredentialTest@2a2d45ba]" name="validateUser" duration-ms="2871" started-at="2019-02-11T06:11:57Z" finished-at="2019-02-11T06:12:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateUser -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.demoaut.newtours.Testscripts.InvalidCredentialTest@2a2d45ba]" name="closeBrowser" is-config="true" duration-ms="2267" started-at="2019-02-11T06:12:00Z" finished-at="2019-02-11T06:12:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.demoaut.newtours.Testscripts.InvalidCredentialTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
